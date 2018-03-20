@@ -4,21 +4,20 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EqualWords
+namespace EvenOdd
 {
     class Program
     {
         static void Main(string[] args)
         {
-            String word1 = Console.ReadLine().ToLower();
-            String word2 = Console.ReadLine().ToLower();
-            if (word1.Equals(word2))
+            int num = int.Parse(Console.ReadLine());
+            if (num % 2 == 0)
             {
-                Console.WriteLine("yes");
+                Console.WriteLine("even");
             }
             else
             {
-                Console.WriteLine("no");
+                Console.WriteLine("odd");
             }
         }
     }

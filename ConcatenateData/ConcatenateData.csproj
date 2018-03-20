@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A078626B-23F0-41C7-BA32-80FE40465761}</ProjectGuid>
+    <ProjectGuid>{31A7DA1B-D7CB-431C-AAD7-C1944DBFFC46}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>ConcatenateData</RootNamespace>
     <AssemblyName>ConcatenateData</AssemblyName>

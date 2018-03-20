@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EB30F0DE-1EDD-4F8A-8F07-5B5862EF429D}</ProjectGuid>
+    <ProjectGuid>{8FA83BB5-30F1-4A57-85FA-967E2B694B63}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>CelsiustoFahrenheit</RootNamespace>
     <AssemblyName>CelsiustoFahrenheit</AssemblyName>
