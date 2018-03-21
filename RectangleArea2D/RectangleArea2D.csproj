@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6C0DD0EB-ED11-4841-9063-0EC146931F6E}</ProjectGuid>
+    <ProjectGuid>{F63B26F1-DB4B-4F1A-9410-58327D61BA5A}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>RectangleArea2D</RootNamespace>
     <AssemblyName>RectangleArea2D</AssemblyName>

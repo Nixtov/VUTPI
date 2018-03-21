@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{85170B3A-B78F-43C8-BEB4-8E42F9FB1CA6}</ProjectGuid>
+    <ProjectGuid>{2747BA63-58BF-40D6-8B39-737991A0F01D}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Triangleof55Stars</RootNamespace>
     <AssemblyName>Triangleof55Stars</AssemblyName>

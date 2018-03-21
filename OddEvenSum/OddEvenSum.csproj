@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9CEEE6D5-B1A2-4881-B73C-E19065123287}</ProjectGuid>
+    <ProjectGuid>{79DDB8EA-BCE7-424E-8929-C42F807CAFFF}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>RectangleArea</RootNamespace>
-    <AssemblyName>RectangleArea</AssemblyName>
+    <RootNamespace>OddEvenSum</RootNamespace>
+    <AssemblyName>OddEvenSum</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

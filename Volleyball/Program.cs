@@ -13,10 +13,7 @@ namespace Volleyball
             var year = Console.ReadLine();
             double p = double.Parse(Console.ReadLine());
             double h = double.Parse(Console.ReadLine());
-          
-
             double games = 0;
-           
             if (year == "leap") games = ((48 - h) * 3.0 / 4.0 + h + p * 2.0 / 3.0) * 1.15;
             else if (year == "normal") games = ((48 - h) * 3.0 / 4.0 + h + p * 2.0 / 3.0);
             Console.WriteLine("{0}",Math.Floor(games));

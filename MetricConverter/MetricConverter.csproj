@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6592B931-0C92-48F3-94BB-0B446611BBEA}</ProjectGuid>
+    <ProjectGuid>{9AD8C8DF-CDA2-4973-A59D-F4D5BFD5105C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>MetricConverter</RootNamespace>
     <AssemblyName>MetricConverter</AssemblyName>
