@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{A01D8CA3-8D39-4995-8523-8E3A8EA3BCAA}</ProjectGuid>
+    <ProjectGuid>{BFB87F70-91D4-4915-8C44-ECFB415042D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Basketball</RootNamespace>
-    <AssemblyName>Basketball</AssemblyName>
+    <RootNamespace>Nums100_200</RootNamespace>
+    <AssemblyName>Nums100_200</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
