@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace HelloSoftUni
+namespace Test
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello SoftUni");
+            Console.WriteLine(5*2.0/3);
         }
     }
 }
